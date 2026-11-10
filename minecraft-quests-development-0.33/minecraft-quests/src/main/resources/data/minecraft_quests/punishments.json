@@ -1,0 +1,18 @@
+{
+  "categories": {
+    "chaos_and_fun": [
+      "pumpkin_vision", "chicken_mode", "spring_legs", "upside_down_visual", "rainbow_sheep_particles",
+      "pig_sounds", "chicken_drop", "villager_meeting", "bat_party", "wandering_trader_caravan",
+      "harmless_anvil_rain", "giant_chicken_boss", "random_visual_effect", "slime_king",
+      "sheep_apocalypse", "mini_boss", "failure_fireworks", "bee_union", "chicken_meteor",
+      "mini_dragon"
+    ]
+  },
+  "safety": {
+    "temporary_world_changes_only": true,
+    "restore_blocks_after_effect": true,
+    "never_target_claimed_or_protected_areas": true,
+    "cap_spawn_counts_and_effect_radius": true,
+    "no_real_world_harm_instructions": true
+  }
+}

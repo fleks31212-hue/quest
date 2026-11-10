@@ -1,0 +1,10 @@
+{
+  "enabled_by_default": true,
+  "command": "/quests sounds <on|off|status>",
+  "events": {
+    "quest_assigned": "minecraft:entity.cow.ambient",
+    "quest_completed": "minecraft:ui.toast.challenge_complete",
+    "quest_failed": "minecraft:entity.wolf.howl"
+  },
+  "scope": "mod_notifications_only"
+}
